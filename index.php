@@ -9,5 +9,9 @@
 <body>
     <h1>Coba Remote</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus, neque! Eum ratione dolorum accusamus tempora soluta fugiat sit possimus alias sint illum provident, deserunt vero commodi assumenda cupiditate quaerat aliquid.</p>
+
+    <ul>
+        <li>sadsddads</li>
+    </ul>
 </body>
 </html>
